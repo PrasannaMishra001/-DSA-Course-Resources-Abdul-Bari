@@ -1,5 +1,3 @@
-# -DSA-Course-Resources-Abdul-Bari
-Resources including notes, codes, and summaries from Abdul Bari’s Data Structures and Algorithms course.
 # 📚 DSA-Notes-Codes-Abdul-Bari
 
 A collection of notes, codes, and summaries from Abdul Bari’s YouTube and Udemy DSA courses. 📘
