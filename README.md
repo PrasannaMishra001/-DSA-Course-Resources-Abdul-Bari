@@ -11,4 +11,4 @@ A collection of notes, codes, and summaries from Abdul Bari’s YouTube and Udem
 Clone this repository to access all the materials for learning DSA.
 
 ```bash
-git clone https://github.com/PrasannaMishra001/DSA-Notes-Codes-Abdul-Bari.git
+git clone https://github.com/PrasannaMishra001/-DSA-Notes-Codes-Abdul-Bari.git
